@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mikolaj/work/Object_Detection_Model_microservice/mlruns/0/09295829a5ab4e688060c686e8097ffb/artifacts
+end_time: 1734470500942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09295829a5ab4e688060c686e8097ffb
+run_name: grandiose-lynx-56
+run_uuid: 09295829a5ab4e688060c686e8097ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734470498097
+status: 3
+tags: []
+user_id: mikolaj

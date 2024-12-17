@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mikolaj/work/Object_Detection_Model_microservice/mlruns/0/0013a48731354954be494c8894c92e6b/artifacts
+end_time: 1734469518409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0013a48731354954be494c8894c92e6b
+run_name: rogue-shad-314
+run_uuid: 0013a48731354954be494c8894c92e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734469515556
+status: 3
+tags: []
+user_id: mikolaj

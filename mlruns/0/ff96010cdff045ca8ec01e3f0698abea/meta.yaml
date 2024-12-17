@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mikolaj/work/Object_Detection_Model_microservice/mlruns/0/ff96010cdff045ca8ec01e3f0698abea/artifacts
+end_time: 1734461421071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff96010cdff045ca8ec01e3f0698abea
+run_name: vaunted-bee-590
+run_uuid: ff96010cdff045ca8ec01e3f0698abea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734461418304
+status: 3
+tags: []
+user_id: mikolaj
